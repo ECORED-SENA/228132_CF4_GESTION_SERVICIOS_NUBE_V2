@@ -13,7 +13,7 @@
       img(src="@/assets/curso/img1.png").d-none.d-md-flex
       img(src="@/assets/curso/img1-movil.png").d-flex.d-md-none
       .container-text-introduccion.col-11.mx-auto
-        p.mb-0 Le damos la bienvenida al componente formativo “Diseño y documentación de propuesta para servicios en la nube”. Para comenzar el recorrido por el mismo, visite el recurso didáctico que se muestra a continuación:
+        p.mb-0 Le damos la bienvenida al componente formativo #[b “Diseño y documentación de propuesta para servicios en la nube”]. Para comenzar el recorrido por el mismo, preste atención al video que se muestra a continuación:
     
     figure
       .video

@@ -18,8 +18,8 @@
     .titulo-sexto.color-acento-contenido
       h5 Figura 4.
       span Aspectos contenidos en la administración de proyectos TI
-    img.img-a.img-t.mb-5(src="@/assets/curso/temas/tema5/2.svg", alt="Esquema gráfico que muestra, en secuencia, algunos aspectos clave de la administración de proyectos TI.")          
-
+    img.img-a.img-t.mb-5.d-none.d-lg-block(src="@/assets/curso/temas/2.svg", alt="Esquema gráfico que muestra, en secuencia, algunos aspectos clave de la administración de proyectos TI.")          
+    img.img-a.img-t.mb-5.d-block.d-lg-none(src="@/assets/curso/temas/3.svg", alt="Esquema gráfico que muestra, en secuencia, algunos aspectos clave de la administración de proyectos TI.") 
     .row.mb-4 
       .col-auto
         .bgt.p-2.brad
@@ -44,7 +44,7 @@
         .row.align-items-center
           .col-md-8.mb-4.mb-md-0
             h4 Hacer
-            p En esta fase se deben poner en marcha o ejecución las actividades de gestión y técnicas que se planearon por realizar. En los proyectos de TI, son aquellas actividades de instalación, implementación o apropiación de tecnologías hardware y software. También, pueden involucrar la adquisición de nuevos servicios de TI, como los servicios en la nube o aplicaciones de terceros.
+            p En esta fase se deben poner en marcha o ejecución las actividades de gestión y técnicas que se planearon por realizar. En los proyectos de TI, son aquellas actividades de instalación, implementación o apropiación de tecnologías #[i hardware] y #[i software]. También, pueden involucrar la adquisición de nuevos servicios de TI, como los servicios en la nube o aplicaciones de terceros.
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema5/img-7.png' style="max-width: 324px")
@@ -181,7 +181,7 @@
       .col-auto
         .bgt.p-2.brad
           h4.mb-0.text-white Criterios para la determinación de recursos
-    p Los recursos de un proyecto de TI. pueden estar agrupados en recursos humanos, económicos o financieros, tecnológicos, y de información.
+    p Los recursos de un proyecto de TI pueden estar agrupados en recursos humanos, económicos o financieros, tecnológicos, y de información.
 
     .d-flex.mb-5
       img.img-a.img-t(src="@/assets/curso/temas/tema5/decorador-4.svg").mx-3
@@ -204,10 +204,10 @@
             | Experiencia: la experiencia que se requiere para tener mayor seguridad y confianza para la ejecución de las actividades del proyecto.
         tr.bgt3
           th Económico y finaciero
-          td Costos de administración y seguimiento: se deben considerar los costos de personal, viáticos, maquinaria y equipo, vehículos, transporte, estudios y auditorias, materiales y suministros.
+          td Costos de administración y seguimiento: se deben considerar los costos de personal, viáticos, maquinaria y equipo, vehículos, transporte, estudios y #[i auditorías], materiales y suministros.
             br
             br
-            | Costos Directos: considerar salarios, viáticos, mano de obra, materiales y suministros, transferencias, estudios y auditorias, consultorías, capacitación y divulgación, 
+            | Costos Directos: considerar salarios, viáticos, mano de obra, materiales y suministros, transferencias, estudios y #[i auditorías], consultorías, capacitación y divulgación, 
             br
             br
             | Costos concurrentes: considerar salarios, viáticos, servicios generales, insumos y materiales, mantenimiento, capacitación y concientización.
@@ -261,7 +261,7 @@
             .bg13.p-4.brad.h-100.text-white
               img.img-t(src="@/assets/curso/temas/tema5/img-11.svg").mb-4
               h4 Tiempo estimado de realización
-              p Establecer con base en los recursos disponibles, especialmente los humanos, el conocimiento y el esfuerzo que se requiere para realizar la actividad el periodo de tiempo que tomaría realizar cada actividad del proyecto.
+              p Establecer con base en los recursos disponibles, especialmente los humanos, el conocimiento y el esfuerzo que se requiere para realizar la actividad, el periodo de tiempo que tomaría realizar cada actividad del proyecto.
               img(src="@/assets/curso/temas/tema2/decorador-1.svg" style="max-width: 86px").ms-auto
 
         p La planeación de las actividades debe considerar también los siguientes atributos dentro de un cronograma de actividades:
@@ -340,7 +340,7 @@
           div(numero="3" titulo="Contratación de servicios")
             p En la contratación de servicio, se deben revisar las condiciones y acuerdos de nivel de servicio con proveedores, incluyendo el soporte, de tal manera que se cumplan con los requerimientos específicos del proyecto.
           div(numero="4" titulo="Protección de datos")
-            p Protección de datos personales, es de vital importancia que los prestadores de servicios cuenten con las regulaciones de protección de datos personales y que el procesamiento y almacenamiento de datos e información se de en países que cuenten con leyes o regulaciones sobre la protección de datos personales.
+            p Protección de datos personales, es de vital importancia que los prestadores de servicios cuenten con las regulaciones de protección de datos personales y que el procesamiento y almacenamiento de datos e información se dé en países que cuenten con leyes o regulaciones sobre la protección de datos personales.
       .col-lg-5
         img.img-a.img-t(src="@/assets/curso/temas/tema5/12.png")
 
@@ -349,7 +349,7 @@
         .bgt.p-2.brad
           h4.mb-0.text-white Riesgos
 
-    p Un riesgo se define como aquello que puede generar una situación adversa a una meta, objetivo, propósito, proyecto, proceso o empresa. Dentro de la gestión de proyectos de TI, se deben gestionar los riesgos asociados a los mismos, para ello es importante que se identifiquen las posibles amenazas que generan riesgos al proyecto de tal manera que se pueda establecer la probabilidad de ocurrencia, el impacto generado, para finalmente determinar el nivel de cada riesgo del proyecto, y así poder realizar las acciones de mitigación o tratamiento de riesgos del proyecto.
+    p Un riesgo se define como aquello que puede generar una situación adversa a una meta, objetivo, propósito, proyecto, proceso o empresa. Dentro de la gestión de proyectos de TI, se deben gestionar los riesgos asociados a los mismos, para ello es importante que se identifiquen las posibles amenazas que generan riesgos al proyecto, de tal manera que se pueda establecer la probabilidad de ocurrencia, el impacto generado, para finalmente determinar el nivel de cada riesgo del proyecto, y así poder realizar las acciones de mitigación o tratamiento de riesgos del proyecto.
 
     .row.justify-content-center.align-items-center      
       .col-lg-5

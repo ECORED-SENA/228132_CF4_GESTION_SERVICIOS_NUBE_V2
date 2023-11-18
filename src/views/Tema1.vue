@@ -16,7 +16,7 @@
               .col-lg-auto
                 img.img-a.img-t(src="@/assets/curso/temas/tema1/1.png")
               .col
-                p.ps-3.fw-bold.mb-0(style="color: #1565C0") La migración de información a la nube, como se ha visto anteriormente, es un paso obligado para particulares y para empresas que se encuentren dotadas a nivel de infraestructura, con equipos de servidores, aplicaciones, redes, etc. Todo esto implica un largo, y a veces complejo proceso de migración. 
+                p.ps-3.fw-bold.mb-0(style="color: #1565C0") La migración de información a la nube es un paso obligado para particulares y para empresas que se encuentren dotadas a nivel de infraestructura, con equipos de servidores, aplicaciones, redes, etc. Todo esto implica un largo, y a veces complejo proceso de migración.
             .cajon.color-acento-botones.p-4.ms-3.edit-cajon
               p.mb-0 <b>Este proceso de migración</b>, consiste en una serie de actividades para lograr una identificación, planificación, ejecución y evaluación de migración de servicios de TI locales a servicios en la nube dentro de una organización.
 
@@ -24,7 +24,7 @@
         .titulo-segundo.color-acento-contenido
           h2#t_1_1 1.1 Concepto
         
-        p Todo proyecto de implementación de servicios en la nube debe estar orientado o dirigido por una estrategia definida de migración la cual varía según múltiples factores, por lo que no hay una única estrategia para una cartera de productos TI.
+        p Todo proyecto de implementación de servicios en la nube debe estar orientado o dirigido por una estrategia definida de migración, la cual varía según múltiples factores, por lo que no hay una única estrategia para una cartera de productos TI.
 
         p En relación con las estrategias de migración, tenga presente:
       
@@ -33,13 +33,13 @@
             .bg5.p-4.h-100.brad
               img.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/2.svg', alt='')
               h4 Beneficios
-              p.mb-0 Una de las principales ventajas de la infraestructura cloud es permitir combinar servicios que consoliden las necesidades de la organización.
+              p.mb-0 Una de las principales ventajas de la infraestructura #[i cloud] es permitir combinar servicios que consoliden las necesidades de la organización.
 
           .col-lg-4.my-3
             .bg5.p-4.h-100.brad
               img.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/3.svg', alt='')
               h4 Seis erres
-              p.mb-0 En el cloud computing se suele utilizar la fórmula de "las seis erres" para identificar distintas estrategias de migración a aplicar.
+              p.mb-0 En el #[i cloud computing] se suele utilizar la fórmula de "las seis erres" para identificar distintas estrategias de migración a aplicar.
 
           .col-lg-4.my-3
             .bg5.p-4.h-100.brad
@@ -56,7 +56,8 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 2. 
           span Estrategias de migración: las seis erres 
-        img(src="@/assets/curso/temas/tema1/img-5.svg", alt="Esquema que enuncia las seis erres de dicha técnica de migración: Re-hospedaje, Re-plataforma, Re-compra, Retirada, Retención, Re-diseño.")
+        img.d-none.d-lg-block(src="@/assets/curso/temas/tema1/img-5.svg", alt="Esquema que enuncia las seis erres de dicha técnica de migración: Re-hospedaje, Re-plataforma, Re-compra, Retirada, Retención, Re-diseño.")
+        img.d-block.d-lg-none.img-a.img-t(src="@/assets/curso/temas/1.svg", alt="Esquema que enuncia las seis erres de dicha técnica de migración: Re-hospedaje, Re-plataforma, Re-compra, Retirada, Retención, Re-diseño.")        
     separador
     .titulo-segundo.color-acento-contenido.mb-5
       h2#t_1_2 1.2 Tipos y características
@@ -65,7 +66,7 @@
         img.img-a.img-t(src="@/assets/curso/temas/tema1/img-6.png")
 
       .col-lg-8
-        p Como se estudió anteriormente, existe la técnica de las 6 Rs, que permite <span>la identificación de estrategias para la migración de información a la nube</span>. Estas estrategias corresponden con unos tipos y características particulares, de acuerdo con los costes que implica:
+        p La técnica de las seis erres permite la identificación de estrategias para la migración de información a la nube. Estas estrategias corresponden con unos tipos y características particulares, de acuerdo con los costes que implica:
         .d-flex.flex-wrap.text-center
           .col-12.col-lg-6.col-xl-3.p-2
             .bg5.p-4.brad.h-100
@@ -102,7 +103,7 @@
             p Es una estrategia totalmente diferente, pues ya no se trata de migrar la aplicación existente, sino de adoptar una nueva aplicación que se encuentre en la nube. Por ejemplo, podríamos abandonar nuestro CRM legado y migrar hacia <em>Salesforce</em>. Si bien es cierto, no existe una migración de aplicación propiamente dicha, son necesarias las acciones como migrar datos, rediseñar interfaces, etc.
             img(src="@/assets/curso/temas/tema1/img-acordeon-3.svg" style="max-width: 514px").px-2.mx-auto
           .container-acordeon-vertical(numero="4" titulo="<em>(R)efactoring/(R)-arquitecting</em>")
-            p.mb-3 Esta estrategia consiste en hacer un rediseño profundo de la aplicación que sea realmente cloud nativa. Se considera la llamada “reingeniería” (cambios profundos en la aplicación), como se indica, semejante al desarrollo de <em>cloud</em> nativo, que consiste en la construcción desde cero.
+            p.mb-3 Esta estrategia consiste en hacer un rediseño profundo de la aplicación que sea realmente #[i cloud] nativa. Se considera la llamada “reingeniería” (cambios profundos en la aplicación), como se indica, semejante al desarrollo de <em>cloud</em> nativo, que consiste en la construcción desde cero.
             img(src="@/assets/curso/temas/tema1/img-acordeon-4.svg" style="max-width: 514px").px-2.mx-auto
           .container-acordeon-vertical(numero="5" titulo="<em>(R)etire</em>")
             p Esta estrategia, realmente no se trata de una migración, sino más bien de aprovechar el esfuerzo y análisis de la realidad de sistemas disponibles para prescindir de alguno que realmente no aporte valor o que su funcionalidad permite ser absorbida por otro. Es idóneo para simplificar el mapa de sistemas, permitiendo ahorro en el costo, aporte en agilidad y mayor facilidad en la gestión.
@@ -114,7 +115,7 @@
         img(src="@/assets/curso/temas/tema1/img-7.svg")
 
 
-    p.mb-5 Con el fin de llevar a cabo una mayor precisión del concepto, así como un breve resumen de las 6Rs, se presenta la siguiente tabla, la cual incorpora las características de cada una de estas, veamos:
+    p.mb-5 Con el fin de llevar a cabo una mayor precisión del concepto, así como un breve resumen de las seis erres, se presenta la siguiente tabla, la cual incorpora las características de cada una de estas:
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1. 
@@ -127,7 +128,7 @@
           td.text-center.fw-bold Definición
         tr.bgt2
           th.fw-normal Re-hospedaje<br> <em>(“lift and shift”)</em>
-          td Esta estrategia es una de las más comunes y sencilla de implementar, aunque también se considera que presenta muchas más probabilidades de generar problemas, incrementar los costes y alinear los <em>stakeholders</em> clave. El re-hospedaje, consiste en replicar un sistema existente en una infraestructura cloud. <br><br> Su implementación es rápida y práctica, pero hereda las debilidades y fallas de los sistemas originarios hacia la nube.
+          td Esta estrategia es una de las más comunes y sencilla de implementar, aunque también se considera que presenta más probabilidades de generar problemas, incrementar los costes y alinear los #[i stakeholders] clave. El re-hospedaje, consiste en replicar un sistema existente en una infraestructura #[i cloud].
         tr.bgt3
           th.fw-normal Re-plataforma
           td Estrategia que implica análisis de negocio para identificación de procesos y servicios que puedan ser excluidos de la migración, requiere un conocimiento de la arquitectura originaria y procesos para la toma de decisiones.
@@ -136,13 +137,13 @@
           td Estrategia asociada a la recompra de versiones <em>SaaS</em> de una aplicación utilizada por la organización, por ejemplo:  <em>Microsoft Exchange</em> migrar a <em>Office 365</em> obteniendo las funcionalidades y beneficios de un producto novedoso y seguro. <br><br>Este modelo requiere de una importante justificación para ser presentado ante la alta dirección, ya que es común escuchar que no se debe comprar algo con lo que ya se cuenta, de ahí la importancia de presentar los beneficios y bondades de la nueva adquisición. 
         tr.bgt3
           th.fw-normal Re-diseño
-          td Estrategia de mayor complejidad y de mayor costo ya que implica re arquitecturizar sistemas de información y procesos, buscando aprovechar los beneficios de la tecnología Cloud. Considera que puede requerir diseñar la infraestructura desde cero, pero esto se puede ver beneficiado con una optimización de recursos, y evitar gastos innecesarios en la operación de la infraestructura <em>cloud</em>.
+          td Estrategia de mayor complejidad y de mayor costo, ya que implica re arquitecturizar sistemas de información y procesos, buscando aprovechar los beneficios de la tecnología #[i cloud]. Considera que puede requerir diseñar la infraestructura desde cero, pero esto se puede ver beneficiado con una optimización de recursos, y evitar gastos innecesarios en la operación de la infraestructura <em>cloud</em>.
         tr.bgt2
           th.fw-normal Retención
           td Esta estrategia considera la posibilidad de no tener que migrar hacia la nube toda una infraestructura. Ya sea por costos, restricciones de licenciamiento o compatibilidad. Para este caso, se conserva la aplicación o algún componente de la misma en el entorno original, identificando que, en algunas ocasiones, no todo puede ser llevado hacia la nube.
         tr.bgt3
           th.fw-normal Retirada 
-          td Busca retirar de la arquitectura cloud, aquellos componentes que ya no se utilizan y que generan carga o costo operativo.
+          td Busca retirar de la arquitectura #[i cloud], aquellos componentes que ya no se utilizan y que generan carga o costo operativo.
 
 
 

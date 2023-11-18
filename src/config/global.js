@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Diseño y documentación de propuesta para servicios en la nube',
     descripcionCurso:
-      'Este componente proporciona la información necesaria para conformar una propuesta de implementación de servicios en la nube, de acuerdo a los requerimientos de los sistemas de información de las organizaciones y las buenas prácticas parta garantizar la disponibilidad, confidencialidad e integridad de la información.',
+      'Este componente proporciona la información necesaria para conformar una propuesta de implementación de servicios en la nube, de acuerdo a los requerimientos de los sistemas de información de las organizaciones y las buenas prácticas, para garantizar la disponibilidad, confidencialidad e integridad de la información.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -142,26 +142,30 @@ export default {
   },
   complementario: [
     {
-      texto:
+      tema: '2. Contratación',
+      referencia:
         'Ministerio de Comercio, Industria y Turismo. (2013). Decreto Número 1317 del 27 de junio de 2013.',
       tipo: 'PDF',
       descarga: '/downloads/articles-9011_documento.pdf',
     },
     {
-      texto:
+      tema: '2. Contratación',
+      referencia:
         'Agencia española de protección de datos. (2013). Guía para clientes que contraten servicios de Computing.',
       tipo: 'PDF',
       descarga:
         '/downloads/GuíaParaClientesQueContratenServiciosDeCloudComputing-AGPD.pdf',
     },
     {
-      texto:
+      tema: '5. Proyectos de TI',
+      referencia:
         'República de Colombia, Ministerio de tecnologías de la información y las comunicaciones.  (2012). Ley 1581 de 2012.',
       tipo: 'PDF',
       descarga: '/downloads/Ley_1581_de_2012.pdf',
     },
     {
-      texto:
+      tema: '3. Proveedores de servicio en la nube',
+      referencia:
         'Página relacionada con los proveedores de servicios en la nube. Accedida el 27 de diciembre de 2021 Public Cloud Services Comparison, comparecloud.in',
       tipo: 'Página web',
       link: 'https://comparecloud.in/',
@@ -195,8 +199,7 @@ export default {
   ],
   referencias: [
     {
-      referencia:
-        'Allcode.com (2021). <em>10 Top Cloud Providers in 2021.</em>',
+      referencia: 'Allcode.com (2023). 10 Top Cloud Providers in 2023. ',
       link: 'https://allcode.com/cloud-providers/',
     },
     {
@@ -212,7 +215,7 @@ export default {
     {
       referencia: 'SANTOS GARCÍA (2012).  Comunicación oral y escrita.',
       link:
-        'http://190.57.147.202:90/jspui/bitstream/123456789/650/1/Comunicacion_oral_y_escrita.pdf',
+        'https://www.aliat.click/BibliotecasDigitales/Axiologicas/Comunicacion_oral_y_escrita.pdf',
     },
     {
       referencia:

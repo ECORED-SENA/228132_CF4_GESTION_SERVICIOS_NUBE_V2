@@ -10,8 +10,8 @@
             img(src="@/assets/template/Arrastrar_Soltar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Acertar lo visto hasta el momento
-        p.mb-4 Recordar lo aprendido sobre el Diseño y documentación de propuesta para servicios en la nube.
+          h2 Diseñando y documentando propuesta de servicios en la nube.
+        p.mb-4 Reforzar los conceptos básicos y demás elementos teóricos sobre #[b diseño y documentación de propuesta para servicios en la nube], desarrollados en el componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

@@ -15,7 +15,7 @@
         img.img-a.img-t(src="@/assets/curso/temas/tema3/1.png")
       .col-lg-7.my-3
         .bg10.p-4.mb-4
-          p.mb-0 Los proveedores de servicios <em>cloud</em> han surgido para ofrecer a las organizaciones soluciones innovadoras, de vanguardia, contempla funcionalidades tanto técnicas, que benefician la disponibilidad, así como herramientas para la gestión de los activos de información, a partir de modelos de negocio basados en servicios con componentes modulares. 
+          p.mb-0 Los proveedores de servicios #[i cloud], han surgido para ofrecer a las organizaciones soluciones innovadoras y de vanguardia; contemplan funcionalidades tanto técnicas, que benefician la disponibilidad, así como herramientas para la gestión de los activos de información, a partir de modelos de negocio basados en servicios con componentes modulares. 
         .row.justify-content-center
           .col-6.col-md-4.col-xl-2.px-1.mb-2
             .bg5.brad.px-2.py-3
@@ -137,7 +137,7 @@
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title Salesforce <span>Cloud</span>
-            p <em>Salesforce</em> es una empresa estadounidense de <em>software</em> bajo demanda, más conocida por producir un CRM llamado Sales Cloud.
+            p <em>Salesforce</em> es una empresa estadounidense de <em>software</em> bajo demanda, más conocida por producir un CRM llamado Sales <i>cloud</i>.
 
 
     .tarjeta.color-primario.p-3
@@ -147,8 +147,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.mb-1 Public Cloud Services Comparison
-              p.mb-0 Conozca más sobre los proveedores de servicios en la nube, consultando la información de la página “Public Cloud Services Comparison”.
+              h3.mb-1 Public #[i cloud] Services Comparison
+              p.mb-0 Conozca más sobre los proveedores de servicios en la nube, consultando la información de la página “Public #[i cloud] Services Comparison”.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://comparecloud.in/" target="_blank")
                 span Ir al sitio
