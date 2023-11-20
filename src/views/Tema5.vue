@@ -198,13 +198,13 @@
           td.text-center.fw-bold(style="font-size: 20px;") Criterio
         tr.bgt2
           th Humano
-          td Conocimiento: profesión y especialidad que se requiere según el proyecto de TI (especialista, profesional, tecnólogo, técnico, etc.)
+          td.text-start Conocimiento: profesión y especialidad que se requiere según el proyecto de TI (especialista, profesional, tecnólogo, técnico, etc.)
             br
             br
             | Experiencia: la experiencia que se requiere para tener mayor seguridad y confianza para la ejecución de las actividades del proyecto.
         tr.bgt3
           th Económico y finaciero
-          td Costos de administración y seguimiento: se deben considerar los costos de personal, viáticos, maquinaria y equipo, vehículos, transporte, estudios y auditorías, materiales y suministros.
+          td.text-start Costos de administración y seguimiento: se deben considerar los costos de personal, viáticos, maquinaria y equipo, vehículos, transporte, estudios y auditorías, materiales y suministros.
             br
             br
             | Costos Directos: considerar salarios, viáticos, mano de obra, materiales y suministros, transferencias, estudios y auditorías, consultorías, capacitación y divulgación, 
@@ -216,7 +216,7 @@
             | Imprevistos: rubros para afrontar posibles sucesos adversos.
         tr.bgt2
           th Tecnólogico
-          td Aplicaciones: se deben considerar los requisitos de aplicaciones o <em>software</em>.
+          td.text-start Aplicaciones: se deben considerar los requisitos de aplicaciones o <em>software</em>.
             br
             br
             | Usuarios: según la cantidad de usuarios actual y provista se deben asignar recursos tecnológicos.
@@ -235,10 +235,10 @@
 
         tr.bgt3
           th Información
-          td Datos: considerar la información y datos necesaria para el correcto funcionamiento de las aplicaciones y una adecuada ejecución de los procesos por parte de los usuarios.
+          td.text-start Datos: considerar la información y datos necesaria para el correcto funcionamiento de las aplicaciones y una adecuada ejecución de los procesos por parte de los usuarios.
         tr.bgt2
           th Otros
-          td Instalaciones y equipos: se debe considerar los recursos de instalaciones, maquinaria, dispositivos y equipos técnicos y tecnológicos que se requieren.
+          td.text-start Instalaciones y equipos: se debe considerar los recursos de instalaciones, maquinaria, dispositivos y equipos técnicos y tecnológicos que se requieren.
 
     
     .row.mb-4 

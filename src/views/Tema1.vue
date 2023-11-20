@@ -128,22 +128,22 @@
           td.text-center.fw-bold Definición
         tr.bgt2
           th.fw-normal Re-hospedaje<br> <em>(“lift and shift”)</em>
-          td Esta estrategia es una de las más comunes y sencilla de implementar, aunque también se considera que presenta más probabilidades de generar problemas, incrementar los costes y alinear los #[i stakeholders] clave. El re-hospedaje, consiste en replicar un sistema existente en una infraestructura #[i cloud].
+          td.text-start Esta estrategia es una de las más comunes y sencilla de implementar, aunque también se considera que presenta más probabilidades de generar problemas, incrementar los costes y alinear los #[i stakeholders] clave. El re-hospedaje, consiste en replicar un sistema existente en una infraestructura #[i cloud].
         tr.bgt3
           th.fw-normal Re-plataforma
-          td Estrategia que implica análisis de negocio para identificación de procesos y servicios que puedan ser excluidos de la migración, requiere un conocimiento de la arquitectura originaria y procesos para la toma de decisiones.
+          td.text-start Estrategia que implica análisis de negocio para identificación de procesos y servicios que puedan ser excluidos de la migración, requiere un conocimiento de la arquitectura originaria y procesos para la toma de decisiones.
         tr.bgt2
           th.fw-normal Re-compra
-          td Estrategia asociada a la recompra de versiones <em>SaaS</em> de una aplicación utilizada por la organización, por ejemplo:  <em>Microsoft Exchange</em> migrar a <em>Office 365</em> obteniendo las funcionalidades y beneficios de un producto novedoso y seguro. <br><br>Este modelo requiere de una importante justificación para ser presentado ante la alta dirección, ya que es común escuchar que no se debe comprar algo con lo que ya se cuenta, de ahí la importancia de presentar los beneficios y bondades de la nueva adquisición. 
+          td.text-start Estrategia asociada a la recompra de versiones <em>SaaS</em> de una aplicación utilizada por la organización, por ejemplo:  <em>Microsoft Exchange</em> migrar a <em>Office 365</em> obteniendo las funcionalidades y beneficios de un producto novedoso y seguro. <br><br>Este modelo requiere de una importante justificación para ser presentado ante la alta dirección, ya que es común escuchar que no se debe comprar algo con lo que ya se cuenta, de ahí la importancia de presentar los beneficios y bondades de la nueva adquisición. 
         tr.bgt3
           th.fw-normal Re-diseño
-          td Estrategia de mayor complejidad y de mayor costo, ya que implica re arquitecturizar sistemas de información y procesos, buscando aprovechar los beneficios de la tecnología #[i cloud]. Considera que puede requerir diseñar la infraestructura desde cero, pero esto se puede ver beneficiado con una optimización de recursos, y evitar gastos innecesarios en la operación de la infraestructura <em>cloud</em>.
+          td.text-start Estrategia de mayor complejidad y de mayor costo, ya que implica re arquitecturizar sistemas de información y procesos, buscando aprovechar los beneficios de la tecnología #[i cloud]. Considera que puede requerir diseñar la infraestructura desde cero, pero esto se puede ver beneficiado con una optimización de recursos, y evitar gastos innecesarios en la operación de la infraestructura <em>cloud</em>.
         tr.bgt2
           th.fw-normal Retención
-          td Esta estrategia considera la posibilidad de no tener que migrar hacia la nube toda una infraestructura. Ya sea por costos, restricciones de licenciamiento o compatibilidad. Para este caso, se conserva la aplicación o algún componente de la misma en el entorno original, identificando que, en algunas ocasiones, no todo puede ser llevado hacia la nube.
+          td.text-start Esta estrategia considera la posibilidad de no tener que migrar hacia la nube toda una infraestructura. Ya sea por costos, restricciones de licenciamiento o compatibilidad. Para este caso, se conserva la aplicación o algún componente de la misma en el entorno original, identificando que, en algunas ocasiones, no todo puede ser llevado hacia la nube.
         tr.bgt3
           th.fw-normal Retirada 
-          td Busca retirar de la arquitectura #[i cloud], aquellos componentes que ya no se utilizan y que generan carga o costo operativo.
+          td.text-start Busca retirar de la arquitectura #[i cloud], aquellos componentes que ya no se utilizan y que generan carga o costo operativo.
 
 
 
