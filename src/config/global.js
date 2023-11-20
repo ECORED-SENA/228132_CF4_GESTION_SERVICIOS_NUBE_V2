@@ -190,7 +190,7 @@ export default {
     {
       termino: 'Migración',
       significado:
-        'En tecnología, consiste en el desplazamiento del software, aplicaciones o sistemas de información de una infraestructura tecnológica a otra, por ejemplo, la migración de una aplicación de un servidor local a un servidor en la nube.',
+        'En tecnología, consiste en el desplazamiento del <i>software</i>, aplicaciones o sistemas de información de una infraestructura tecnológica a otra, por ejemplo, la migración de una aplicación de un servidor local a un servidor en la nube.',
     },
     {
       termino: 'Proveedor',

@@ -204,10 +204,10 @@
             | Experiencia: la experiencia que se requiere para tener mayor seguridad y confianza para la ejecución de las actividades del proyecto.
         tr.bgt3
           th Económico y finaciero
-          td Costos de administración y seguimiento: se deben considerar los costos de personal, viáticos, maquinaria y equipo, vehículos, transporte, estudios y #[i auditorías], materiales y suministros.
+          td Costos de administración y seguimiento: se deben considerar los costos de personal, viáticos, maquinaria y equipo, vehículos, transporte, estudios y auditorías, materiales y suministros.
             br
             br
-            | Costos Directos: considerar salarios, viáticos, mano de obra, materiales y suministros, transferencias, estudios y #[i auditorías], consultorías, capacitación y divulgación, 
+            | Costos Directos: considerar salarios, viáticos, mano de obra, materiales y suministros, transferencias, estudios y auditorías, consultorías, capacitación y divulgación, 
             br
             br
             | Costos concurrentes: considerar salarios, viáticos, servicios generales, insumos y materiales, mantenimiento, capacitación y concientización.
