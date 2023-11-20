@@ -144,7 +144,7 @@ export default {
     {
       tema: '2. Contratación',
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2013). Decreto Número 1317 del 27 de junio de 2013.',
+        'Ministerio de Comercio, Industria y Turismo. (2013). Decreto Número 1377 del 27 de junio de 2013.',
       tipo: 'PDF',
       descarga: '/downloads/articles-9011_documento.pdf',
     },
