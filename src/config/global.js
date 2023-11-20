@@ -274,15 +274,10 @@ export default {
             'Regional Cauca, Centro de Teleinformática y Producción Industrial',
         },
         {
-          nombre: 'Henry Eduardo Bastidas Paruma',
-          cargo: 'Experto Temático',
+          nombre: 'Fabián Leonardo Correa Díaz',
+          cargo: 'Diseñador Instruccional',
           centro:
-            'Regional Cauca, Centro de Teleinformática y Producción Industrial',
-        },
-        {
-          nombre: 'María Inés Machado López',
-          cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital. Centro de Diseño y Metrología',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
