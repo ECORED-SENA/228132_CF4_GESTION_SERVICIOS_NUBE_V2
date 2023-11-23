@@ -126,7 +126,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228132_CF04_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -146,22 +146,24 @@ export default {
       referencia:
         'Ministerio de Comercio, Industria y Turismo. (2013). Decreto Número 1377 del 27 de junio de 2013.',
       tipo: 'PDF',
-      descarga: '/downloads/articles-9011_documento.pdf',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646',
     },
     {
       tema: '2. Contratación',
       referencia:
         'Agencia española de protección de datos. (2013). Guía para clientes que contraten servicios de Computing.',
       tipo: 'PDF',
-      descarga:
-        '/downloads/GuíaParaClientesQueContratenServiciosDeCloudComputing-AGPD.pdf',
+      link:
+        'https://www.oas.org/es/sla/ddi/docs/Gu%C3%ADa%20para%20clientes%20que%20contraten%20servicios%20de%20Cloud%20Computing%20-%20AGPD.pdf',
     },
     {
       tema: '5. Proyectos de TI',
       referencia:
         'República de Colombia, Ministerio de tecnologías de la información y las comunicaciones.  (2012). Ley 1581 de 2012.',
       tipo: 'PDF',
-      descarga: '/downloads/Ley_1581_de_2012.pdf',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
     },
     {
       tema: '3. Proveedores de servicio en la nube',
@@ -278,16 +280,6 @@ export default {
           cargo: 'Diseñador Instruccional',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Metodóloga para la formación virtual',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-        },
-        {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de estilo',
-          centro: 'Regional Distrito Capital. Centro de Diseño y Metrología',
         },
       ],
     },

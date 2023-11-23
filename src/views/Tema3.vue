@@ -48,96 +48,96 @@
       .tarjeta.color-acento-botones.pt-3.infografia-t3(x="26%" y="6%" numero="+")
         .container-infografia-t3
           p.title Alibaba <span>Cloud</span>
-          p Traducción del inglés -<em>Alibaba Cloud</em>-, también conocida como <em>Aliyun</em>, es una empresa de computación en la nube, una subsidiaria de <em>Alibaba Group. Alibaba Cloud</em> proporciona servicios de computación en la nube a empresas en línea y al propio ecosistema de comercio electrónico de <em>Alibaba</em>.
+          p Traducción del inglés -Alibaba Cloud-, también conocida como Aliyun, es una empresa de computación en la nube, una subsidiaria de Alibaba Group. Alibaba Cloud proporciona servicios de computación en la nube a empresas en línea y al propio ecosistema de comercio electrónico de Alibaba. 
 
       .tarjeta.color-acento-botones.pt-3.infografia-t3(x="26%" y="29.5%" numero="+")
         .container-infografia-t3
           p.title Amazon Web <span>Services</span>
-          p <em>Amazon Web Services</em> es una colección de servicios de computación en la nube pública que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por <em>Amazon.com</em>. Es usado en aplicaciones populares como <em>Dropbox, Foursquare, HootSuite</em>.
+          p Amazon Web Services es una colección de servicios de computación en la nube pública que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por Amazon.com. Es usado en aplicaciones populares como Dropbox, Foursquare, HootSuite. 
 
       .tarjeta.color-acento-botones.pt-3.infografia-t3(x="26%" y="57%" numero="+")
         .container-infografia-t3
           p.title DigitalOcean
-          p <em>DigitalOcean</em> es un proveedor estadounidense de servidores virtuales privados, con sede principal en la ciudad de Nueva York. La compañía alquila instalaciones de centros de cómputo existentes, incluyendo sitios como Nueva York, Toronto, Bangalore, Ámsterdam, San Francisco, Londres y Singapur.
+          p DigitalOcean es un proveedor estadounidense de servidores virtuales privados, con sede principal en la ciudad de Nueva York. La compañía alquila instalaciones de centros de cómputo existentes, incluyendo sitios como Nueva York, Toronto, Bangalore, Ámsterdam, San Francisco, Londres y Singapur. 
       
       .tarjeta.color-acento-botones.pt-3.infografia-t3(x="26%" y="79.5%" numero="+")
         .container-infografia-t3
           p.title Google <span>Cloud</span>
-          p <em>Google Cloud</em> es una plataforma que ha reunido todas las aplicaciones de desarrollo <em>web</em> que <em>Google</em> estaba ofreciendo por separado.
+          p Google Cloud es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado. 
 
       .tarjeta.color-acento-botones.pt-3.infografia-t3(x="50%" y="99%" numero="+")
         .container-infografia-t3
           p.title Huawei  <span>Cloud</span>
-          p Huawei <em>Mobile Cloud</em> es un sistema de almacenamiento nube o <em>cloud computing</em> desarrollado por Huawei. Fue lanzado el 27 de septiembre de 2017 para los dispositivos Huawei con el sistema operativo HarmonyOS y Android. 
+          p Huawei Mobile Cloud es un sistema de almacenamiento nube o cloud computing desarrollado por Huawei. Fue lanzado el 27 de septiembre de 2017 para los dispositivos Huawei con el sistema operativo HarmonyOS y Android. 
 
       .tarjeta.color-acento-botones.pt-3.infografia-t3(x="74%" y="82%" numero="+")
         .container-infografia-t3
           p.title IBM <span>Cloud</span>
-          p IBM <em>cloud computing</em> es un conjunto de servicios de computación en la nube para empresas que ofrece la compañía de tecnología de la información IBM. 
+          p IBM “cloud computing” es un conjunto de servicios de computación en la nube para empresas que ofrece la compañía de tecnología de la información IBM. 
 
       .tarjeta.color-acento-botones.pt-3.infografia-t3(x="74%" y="57.5%" numero="+")
         .container-infografia-t3
           p.title Microsoft <span>Azure</span>
-          p Microsoft Azure es un servicio de computación en la nube creado por Microsoft para construir, probar, desplegar y administrar aplicaciones y servicios mediante el uso de sus centros de datos.
+          p Microsoft Azure es un servicio de computación en la nube creado por Microsoft para construir, probar, desplegar y administrar aplicaciones y servicios mediante el uso de sus centros de datos. 
 
       .tarjeta.color-acento-botones.pt-3.infografia-t3(x="74%" y="30%" numero="+")
         .container-infografia-t3
           p.title Oracle <span>Cloud</span>
-          p Es un servicio de computación en nube ofrecido por <em>Oracle Corporation</em> que proporciona servidores, almacenamiento, redes, aplicaciones y servicios a través de una red global de centros de datos administrados por <em>Oracle Corporation</em>.
+          p Es un servicio de computación en nube ofrecido por Oracle Corporation que proporciona servidores, almacenamiento, redes, aplicaciones y servicios a través de una red global de centros de datos administrados por Oracle Corporation.
 
       .tarjeta.color-acento-botones.pt-3.infografia-t3(x="74%" y="5.5%" numero="+")
         .container-infografia-t3
           p.title Salesforce <span>Cloud</span>
-          p <em>Salesforce</em> es una empresa estadounidense de <em>software</em> bajo demanda, más conocida por producir un CRM llamado Sales <em>Cloud</em>.
+          p Salesforce es una empresa estadounidense de “#[i software]” bajo demanda, más conocida por producir un CRM llamado Sales Cloud. 
 
     .position-relative.d-block.d-md-none.mb-5(style="margin-right: -1.5rem; margin-right: -1.5rem; margin-left: -1.5rem;")
       img(src="@/assets/curso/temas/tema3/img-movil-1.svg" style="max-width: 481px").mx-auto.px-4.mb-5.pb-4
       img(src="@/assets/curso/temas/tema3/bg-movil-1.svg" style="position: absolute; z-index: 0; top: 340px")
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4" style="z-index: 1; position: relative;").slider-movil-t3
+      SlyderF.px-4.mb-5(columnas="col-lg-6 col-xl-4" style="z-index: 1; position: relative;").slider-movil-t3
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title Alibaba <span>Cloud</span>
-            p Traducción del inglés- <em>Alibaba Cloud</em>-, también conocida como <em>Aliyun</em>, es una empresa de computación en la nube, una subsidiaria de <em>Alibaba Group. Alibaba Cloud</em> proporciona servicios de computación en la nube a empresas en línea y al propio ecosistema de comercio electrónico de <em>Alibaba</em>.
+            p Traducción del inglés -Alibaba Cloud-, también conocida como Aliyun, es una empresa de computación en la nube, una subsidiaria de Alibaba Group. Alibaba Cloud proporciona servicios de computación en la nube a empresas en línea y al propio ecosistema de comercio electrónico de Alibaba.
 
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title Amazone web <span>Services</span>
-            p <em>Amazon Web Services</em> es una colección de servicios de computación en la nube pública que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por <em>Amazon.com</em>. Es usado en aplicaciones populares como <em>Dropbox, Foursquare, HootSuite</em>.
+            p Amazon Web Services es una colección de servicios de computación en la nube pública que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por Amazon.com. Es usado en aplicaciones populares como Dropbox, Foursquare, HootSuite. 
 
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title DigitalOcean
-            p <em>DigitalOcean</em> es un proveedor estadounidense de servidores virtuales privados, con sede principal en la ciudad de Nueva York. La compañía alquila instalaciones de centros de cómputo existentes, incluyendo sitios como Nueva York, Toronto, Bangalore, Ámsterdam, San Francisco, Londres y Singapur.
+            p DigitalOcean es un proveedor estadounidense de servidores virtuales privados, con sede principal en la ciudad de Nueva York. La compañía alquila instalaciones de centros de cómputo existentes, incluyendo sitios como Nueva York, Toronto, Bangalore, Ámsterdam, San Francisco, Londres y Singapur. 
         
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title Google <span>Cloud</span>
-            p <em>Google Cloud</em> es una plataforma que ha reunido todas las aplicaciones de desarrollo <em>web</em> que <em>Google</em> estaba ofreciendo por separado.
+            p Google Cloud es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado. 
 
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title Huawei  <span>Cloud</span>
-            p Huawei <em>Mobile Cloud</em> es un sistema de almacenamiento nube o <em>cloud computing</em> desarrollado por Huawei. Fue lanzado el 27 de septiembre de 2017 para los dispositivos Huawei con el sistema operativo HarmonyOS y Android. 
+            p Huawei Mobile Cloud es un sistema de almacenamiento nube o cloud computing desarrollado por Huawei. Fue lanzado el 27 de septiembre de 2017 para los dispositivos Huawei con el sistema operativo HarmonyOS y Android. 
 
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title IBM <span>Cloud</span>
-            p IBM <em>cloud computing</em> es un conjunto de servicios de computación en la nube para empresas que ofrece la compañía de tecnología de la información IBM. 
+            p IBM “cloud computing” es un conjunto de servicios de computación en la nube para empresas que ofrece la compañía de tecnología de la información IBM. 
 
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title Microsoft <span>Azure</span>
-            p Microsoft Azure es un servicio de computación en la nube creado por Microsoft para construir, probar, desplegar y administrar aplicaciones y servicios mediante el uso de sus centros de datos.
+            p Microsoft Azure es un servicio de computación en la nube creado por Microsoft para construir, probar, desplegar y administrar aplicaciones y servicios mediante el uso de sus centros de datos. 
 
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title Oracle <span>Cloud</span>
-            p Es un servicio de computación en nube ofrecido por <em>Oracle Corporation</em> que proporciona servidores, almacenamiento, redes, aplicaciones y servicios a través de una red global de centros de datos administrados por <em>Oracle Corporation</em>.
+            p Es un servicio de computación en nube ofrecido por Oracle Corporation que proporciona servidores, almacenamiento, redes, aplicaciones y servicios a través de una red global de centros de datos administrados por Oracle Corporation.
 
         .tarjeta.color-acento-botones.pt-3.infografia-t3
           .container-infografia-t3
             p.title Salesforce <span>Cloud</span>
-            p <em>Salesforce</em> es una empresa estadounidense de <em>software</em> bajo demanda, más conocida por producir un CRM llamado Sales <i>cloud</i>.
+            p Salesforce es una empresa estadounidense de “#[i software]” bajo demanda, más conocida por producir un CRM llamado Sales Cloud. 
 
 
     .tarjeta.color-primario.p-3
@@ -148,7 +148,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h3.mb-1 Public #[i cloud] Services Comparison
-              p.mb-0 Conozca más sobre los proveedores de servicios en la nube, consultando la información de la página “Public #[i cloud] Services Comparison”.
+              p.mb-0 Conozca más sobre los proveedores de servicios en la nube, consultando la información de la página “#[i Public cloud Services Comparison]”.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://comparecloud.in/" target="_blank")
                 span Ir al sitio
