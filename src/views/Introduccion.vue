@@ -17,7 +17,7 @@
     
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/CP-AuxoKxyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LfNBfbgh-1A?si=S8KFv4n-10O71dlx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     figcaption Video. Diseño y documentación de propuesta para servicios en la nube: introducción
 </template>
 
