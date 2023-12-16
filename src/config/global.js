@@ -249,31 +249,31 @@ export default {
           nombre: 'Pablo Cesar Pardo Ortiz',
           cargo: 'Experto Temático',
           centro:
-            'Regional Cauca, Centro de Teleinformática y Producción Industrial',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Hernando José Peña Hidalgo',
           cargo: 'Experto Temático',
           centro:
-            'Regional Cauca, Centro de Teleinformática y Producción Industrial',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'José Luis Bastidas Pérez',
           cargo: 'Experto Temático',
           centro:
-            'Regional Cauca, Centro de Teleinformática y Producción Industrial',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Joaquín Patiño Cerón',
           cargo: 'Experto Temático',
           centro:
-            'Regional Cauca, Centro de Teleinformática y Producción Industrial',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Peter Emerson Pinchao Solís',
           cargo: 'Experto Temático',
           centro:
-            'Regional Cauca, Centro de Teleinformática y Producción Industrial',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Fabián Leonardo Correa Díaz',
@@ -347,7 +347,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura-Regional Santander',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Edward Leonardo Pico Cabra',
           cargo: 'Actividad Didáctica',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',

@@ -39,7 +39,7 @@
               p.mb-0.text-center.fw-bold Archivos
 
 
-    p.mb-0.p-2.fw-bold(style="font-size: 22px; color: white;") Los siguientes fueron considerados los principales proveedores de servicios en la nube en el año 2021:
+    h4.mb-4.p-2.fw-bold Los siguientes fueron considerados los principales proveedores de servicios en la nube en el año 2021:
     ImagenInfografica.color-secundario.mb-5.d-none.d-md-flex
       template(v-slot:imagen)
         figure.col-12

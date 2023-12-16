@@ -141,12 +141,14 @@
           .col-lg-5
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/12.png', alt='')
           .col-lg-7
-            .bloque-texto-c.color-secundario.p-4.bg-gradient-1
-              img(src="@/assets/curso/temas/tema2/decorador-bg-1.svg")
-              p Se define contratación como <b>“Pacto o convenio, oral o escrito, entre partes que se obligan sobre materia o cosa determinada, y a cuyo cumplimiento pueden ser compelidas”</b>.
-              span Según la RAE (Real Academia Española)
+            .bloque-texto-b.color-secundario.p-4
+              .bloque-texto-b__texto
+                i.fas.fa-quote-left
+                p <b>Se define contratación como “Pacto o convenio, oral o escrito, entre partes que se obligan sobre materia o cosa determinada, y a cuyo cumplimiento pueden ser compelidas”</b>.
+                i.fas.fa-quote-right                  
+              p Según la RAE (Real Academia Española)
         
-            .cajon.color-primario.p-4.mb-4.edit-cajon-2
+            .cajon.color-primario.p-4.my-4.edit-cajon-2
               p La contratación de servicios de <em><b>cloud computing</b></em> se lleva a cabo mediante un contrato de prestación de servicios, que se define como el contrato mediante el cual una persona, normalmente un especialista, en algún área, se obliga con respecto a otra a realizar una serie de servicios a cambio de un precio. <b>Es importante señalar que el pago del contrato está dirigido al cumplimiento de metas, horas, objetivos, proyectos, etc.</b> Se trata de un contrato oneroso, y  la contraprestación de pago es en dinero o especie, la cual será pagada proporcionalmente conforme a las actividades realizadas.
 
         p.mb-5 Un contrato oneroso, se define como un tipo de contrato en que ambas partes tienen obligaciones y ventajas económicas recíprocas. Entre los más comunes están:

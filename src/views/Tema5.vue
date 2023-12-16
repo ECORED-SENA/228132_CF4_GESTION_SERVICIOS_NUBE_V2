@@ -188,8 +188,8 @@
       p.me-0.me-md-5.mb-0(style="color: #1565C0; font-weight: bold") En la gestión de proyectos de TI, y en especial en los proyectos de servicios en la nube, es importante la determinación de recursos necesarios, por lo que se deben considerar los siguientes criterios:
     
     .titulo-sexto.color-acento-contenido
-        h5 Tabla 3. 
-        span Cronograma de actividades de proyectos de TI
+        h5 Tabla 4. 
+        span Criterios
     .tabla-b.color-acento-contenido.text-center.mb-5
       .tabla-b
       table
@@ -203,7 +203,7 @@
             br
             | Experiencia: la experiencia que se requiere para tener mayor seguridad y confianza para la ejecución de las actividades del proyecto.
         tr.bgt3
-          th Económico y finaciero
+          th Económico y financiero
           td.text-start Costos de administración y seguimiento: se deben considerar los costos de personal, viáticos, maquinaria y equipo, vehículos, transporte, estudios y auditorías, materiales y suministros.
             br
             br
@@ -215,7 +215,7 @@
             br
             | Imprevistos: rubros para afrontar posibles sucesos adversos.
         tr.bgt2
-          th Tecnólogico
+          th tecnológico
           td.text-start Aplicaciones: se deben considerar los requisitos de aplicaciones o <em>software</em>.
             br
             br
